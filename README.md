@@ -14,7 +14,7 @@ pip install numpy tensorflow pandas keyboard
 ---
 
 ## 🚀 How to Run the Project
-Firstly merge the files in single-player and single-player_2 into single single-player folder
+Firstly merge the files in 'dll' and 'dll2' into a single folder 'dll' and paste that dll folder inside the folder named "single-player"
 ### 1. Launch the Emulator
 - goto aiprojectwo->AI Project->gamebot-competition-master
 
